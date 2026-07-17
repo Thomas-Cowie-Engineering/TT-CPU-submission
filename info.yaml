@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  title:        "Little Man Computer CPU"      # Project title
+  author:       "Thomas Cowie"      # Your name
+  discord:      "holden246"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "This is a CPU that implements the Little Man Computer ISA. It interfaces with a RAM module."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
